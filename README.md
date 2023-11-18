@@ -20,7 +20,7 @@ To get started with the DSA Project, follow these steps:
 
  **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/dsa-social-network.git
+   git clone https://github.com/TartejBrothers/DSA-Project.git
    cd dsa-social-network
    ```
 
