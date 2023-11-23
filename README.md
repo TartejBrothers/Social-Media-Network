@@ -21,18 +21,18 @@ To get started with the DSA Project, follow these steps:
 **Clone the Repository:**
 
 ```bash
-git clone https://github.com/TartejBrothers/DSA-Project.git
-cd dsa-social-network
+git clone https://github.com/TartejBrothers/Social-Media-Network.git
+cd social-media-network
 ```
 
 - To compile
-    ```
-    gcc `pkg-config --cflags gtk+-3.0` -o gui gui.c `pkg-config --libs gtk+-3.0`
-    ```
+  ```
+  gcc `pkg-config --cflags gtk+-3.0` -o gui gui.c `pkg-config --libs gtk+-3.0`
+  ```
 - To run
-    ```
-    ./gui
-    ```
+  ```
+  ./gui
+  ```
 
 ## Technologies Used
 
