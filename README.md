@@ -18,13 +18,21 @@ Welcome to the DSA Project: Social Network using Graph! This project is designed
 
 To get started with the DSA Project, follow these steps:
 
- **Clone the Repository:**
-   ```bash
-   git clone https://github.com/TartejBrothers/DSA-Project.git
-   cd dsa-social-network
-   ```
+**Clone the Repository:**
 
+```bash
+git clone https://github.com/TartejBrothers/DSA-Project.git
+cd dsa-social-network
+```
 
+    - To compile
+    ```bash
+    gcc `pkg-config --cflags gtk+-3.0` -o gui gui.c `pkg-config --libs gtk+-3.0`
+    ```
+    - To run
+    ```bash
+    ./gui
+    ```
 
 ## Technologies Used
 
@@ -38,7 +46,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
-
 
 Happy networking!
 
