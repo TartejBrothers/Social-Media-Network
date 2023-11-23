@@ -25,12 +25,12 @@ git clone https://github.com/TartejBrothers/DSA-Project.git
 cd dsa-social-network
 ```
 
-    - To compile
-    ```bash
+- To compile
+    ```
     gcc `pkg-config --cflags gtk+-3.0` -o gui gui.c `pkg-config --libs gtk+-3.0`
     ```
-    - To run
-    ```bash
+- To run
+    ```
     ./gui
     ```
 
