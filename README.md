@@ -41,6 +41,8 @@ cd social-media-network
 
 ## Contribution Guidelines
 
+![1](https://github.com/TartejBrothers/Social-Media-Network/assets/113462236/4bf0e0be-ab7a-46db-a5f4-01d508ba4b74)
+
 We welcome contributions from the community! If you'd like to contribute to the project, please follow these guidelines:
 
 1. Fork the repository.
